@@ -13,6 +13,7 @@ run-build:
 
   only:
    - web
+   - tags
 
   artifacts:
     paths:

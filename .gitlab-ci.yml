@@ -1,4 +1,4 @@
-image: coderus/sailfishos-platform-sdk-base:3.0.2.8
+image: coderus/sailfishos-platform-sdk-base:3.0.3.8
 
 before_script:
  - source vince.env

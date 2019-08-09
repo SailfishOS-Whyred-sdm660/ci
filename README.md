@@ -1,5 +1,7 @@
 # SailfishOS for Xiaomi Redmi Note 5/5 Plus
 
+* 3.1.0.12   - [![pipeline status](https://gitlab.com/sailfishos-porters-ci/vince-ci/badges/3.1.0.12/pipeline.svg)](https://gitlab.com/sailfishos-porters-ci/vince-ci/commits/3.1.0.12)
+
 * 3.0.3.9   - [![pipeline status](https://gitlab.com/sailfishos-porters-ci/vince-ci/badges/3.0.3.9/pipeline.svg)](https://gitlab.com/sailfishos-porters-ci/vince-ci/commits/3.0.3.9)
 * 3.0.2.8   - [![pipeline status](https://gitlab.com/sailfishos-porters-ci/vince-ci/badges/3.0.2.8/pipeline.svg)](https://gitlab.com/sailfishos-porters-ci/vince-ci/commits/3.0.2.8)
 * 3.0.1.11  - [![pipeline status](https://gitlab.com/sailfishos-porters-ci/vince-ci/badges/3.0.1.11/pipeline.svg)](https://gitlab.com/sailfishos-porters-ci/vince-ci/commits/3.0.1.11)

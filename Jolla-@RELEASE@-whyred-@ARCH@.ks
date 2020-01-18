@@ -1,4 +1,4 @@
-# DisplayName: Jolla vince/@ARCH@ (release) 1
+# DisplayName: Jolla whyred/@ARCH@ (release) 1
 # KickstartType: release
 # SuggestedImageType: fs
 # SuggestedArchitecture: armv7hl
@@ -13,19 +13,19 @@ part / --size 500 --ondisk sda --fstype=ext4
 
 ## No suitable configuration found in /tmp/sandbox/usr/share/ssu/kickstart/bootloader
 
-repo --name=adaptation-community-common-vince-@RELEASE@ --baseurl=http://repo.merproject.org/obs/nemo:/testing:/hw:/common/sailfishos_@RELEASE@/
-repo --name=adaptation-community-vince-@RELEASE@ --baseurl=http://repo.merproject.org/obs/nemo:/testing:/hw:/xiaomi:/vince/sailfishos_@RELEASE@/
+repo --name=adaptation-community-common-whyred-@RELEASE@ --baseurl=http://repo.merproject.org/obs/nemo:/testing:/hw:/common/sailfishos_@RELEASE@/
+repo --name=adaptation-community-whyred-@RELEASE@ --baseurl=http://repo.merproject.org/obs/nemo:/testing:/hw:/xiaomi:/vince/sailfishos_@RELEASE@/
 repo --name=apps-@RELEASE@ --baseurl=https://releases.jolla.com/jolla-apps/@RELEASE@/@ARCH@/
 repo --name=hotfixes-@RELEASE@ --baseurl=https://releases.jolla.com/releases/@RELEASE@/hotfixes/@ARCH@/
 repo --name=jolla-@RELEASE@ --baseurl=https://releases.jolla.com/releases/@RELEASE@/jolla/@ARCH@/
 
 %packages
-@Jolla Configuration vince
+@Jolla Configuration whyred
 %end
 
 
 %attachment
-### Commands from /tmp/sandbox/usr/share/ssu/kickstart/attachment/vince
+### Commands from /tmp/sandbox/usr/share/ssu/kickstart/attachment/whyred
 /boot/hybris-boot.img
 /boot/hybris-updater-script
 /boot/hybris-updater-unpack.sh
